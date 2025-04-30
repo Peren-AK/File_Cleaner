@@ -17,10 +17,7 @@
 
 ## デモ動画
 
-https://github.com/user-attachments/assets/2e84d482-8810-4b4f-a937-52ca13802fd4
-
-高解像度の動画はこちらからご覧いただけます。<br>
-https://youtu.be/RBoGBteTzsU
+https://github.com/user-attachments/assets/36dc65fc-4192-4075-8087-c4ab9dfd625e
 
 ## 環境
 - 開発言語: Python 3.12.10
